@@ -96,12 +96,3 @@ For scientific enquiries or feedback, please contact the project developer.
 **Domain:** Artificial Intelligence · Computer Vision · Bioimage Analysis  
 **Country:** Algeria
 
-## Intellectual Property Notice
-
-LabOS is an independently developed research software project.
-
-This repository is intended exclusively to present the project's objectives, research direction and selected development materials. It does not contain the complete source code or confidential implementation details.
-
-All rights to the LabOS name, original source code and unpublished technical materials are reserved by their respective rights holder. No license to reuse these materials is granted through this presentation.
-
-For enquiries concerning collaboration, research evaluation or licensing, please contact the project developer.
