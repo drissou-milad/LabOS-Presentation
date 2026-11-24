@@ -1,4 +1,4 @@
-# LabOS – Project Overview
+﻿# LabOS – Project Overview
 
 ## 1. Project Identity
 
@@ -161,3 +161,4 @@ Feedback concerning scientific relevance, methodological limitations, evaluation
 ---
 
 *This document describes the project's objectives, research direction and development status. It is intended for scientific presentation and evaluation.*
+
